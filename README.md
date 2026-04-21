@@ -20,6 +20,7 @@ To automate candidate screening using AI.
 - Candidate ranking
 
 ## How to Run
+
 1. Install required libraries:
    pip install nltk scikit-learn
 
