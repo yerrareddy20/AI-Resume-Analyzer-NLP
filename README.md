@@ -26,3 +26,15 @@ To automate candidate screening using AI.
 
 2. Run the project:
    python project.py
+
+## Example
+
+**Resume:**
+Python developer with NLP skills
+
+**Job Description:**
+Looking for Python NLP developer
+
+**Output:**
+Similarity Score: 85%  
+Strong Match
